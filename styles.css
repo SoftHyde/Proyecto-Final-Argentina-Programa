@@ -1,0 +1,53 @@
+.imgResponsive{
+    width: 100%;
+    height: auto;
+    border-radius: 15px;
+    box-shadow: 3px 3px 20px black;
+}
+
+.BloqueCabecera{
+    background-color: darkgray;
+    color: white;
+}
+
+.ElementoBloque{
+    padding: 25px;
+}
+
+.BloqueCentral{
+    background-color: dimgray;
+    color: white;
+}
+
+footer{
+    border-top-right-radius: 15px;
+    border-top-left-radius: 15px;
+    background-color: black;
+    color: white;
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+header{
+    background-color:goldenrod;
+    color: black;
+}
+
+.listaGeneral {
+    list-style-type: none;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    padding-left: 25px;
+    padding-right: 25px;
+}
+
+.bordeTabla {
+    border-left: 5px solid black;
+}
+
+.elementoLista{
+    padding-left: 15px;
+    padding-right: 15px;
+}
